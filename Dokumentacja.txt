@@ -1,0 +1,9 @@
+analiza Stringa zliczaj¹ca iloœæ liter, ma³ych liter, du¿ych liter, cyfr, znaków specjalnych oraz spacji
+
+API zawiera 2 endpointy:
+
+Pierwszy zwracaj¹cy dane w postaci stringa
+/checkString/String/{s³owo}
+
+Drugi endpoint zwracaj¹cy dane w postaci JSON
+/checkString/JSON/{s³owo}
